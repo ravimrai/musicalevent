@@ -1,0 +1,16 @@
+{
+  "main.css": "/musicalevent/static/css/main.9795f52e.chunk.css",
+  "main.js": "/musicalevent/static/js/main.a3b0967c.chunk.js",
+  "main.js.map": "/musicalevent/static/js/main.a3b0967c.chunk.js.map",
+  "static/js/1.6051aee7.chunk.js": "/musicalevent/static/js/1.6051aee7.chunk.js",
+  "static/js/1.6051aee7.chunk.js.map": "/musicalevent/static/js/1.6051aee7.chunk.js.map",
+  "runtime~main.js": "/musicalevent/static/js/runtime~main.7443e83b.js",
+  "runtime~main.js.map": "/musicalevent/static/js/runtime~main.7443e83b.js.map",
+  "static/css/main.9795f52e.chunk.css.map": "/musicalevent/static/css/main.9795f52e.chunk.css.map",
+  "static/media/slide_one.jpg": "/musicalevent/static/media/slide_one.84753208.jpg",
+  "static/media/slide_three.jpg": "/musicalevent/static/media/slide_three.9aa09a50.jpg",
+  "static/media/slide_two.jpg": "/musicalevent/static/media/slide_two.3a3ffd36.jpg",
+  "index.html": "/musicalevent/index.html",
+  "precache-manifest.6f8b5418c99fd7bc3669c09f5d1f5d93.js": "/musicalevent/precache-manifest.6f8b5418c99fd7bc3669c09f5d1f5d93.js",
+  "service-worker.js": "/musicalevent/service-worker.js"
+}
